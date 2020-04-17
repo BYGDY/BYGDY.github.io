@@ -13,7 +13,7 @@
   </entry>
   <entry>
     <title>test</title>
-    <url>/2020/04/10/test1/</url>
+    <url>/2020/04/10/test/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>.net</category>
@@ -23,14 +23,14 @@
       </tags>
   </entry>
   <entry>
-    <title>test</title>
-    <url>/2020/04/10/test/</url>
+    <title>test3</title>
+    <url>/2020/06/10/test3/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>.net</category>
+        <category>Linux</category>
       </categories>
       <tags>
-        <tag>linux</tag>
+        <tag>Kalis</tag>
       </tags>
   </entry>
   <entry>
@@ -45,14 +45,14 @@
       </tags>
   </entry>
   <entry>
-    <title>test3</title>
-    <url>/2020/06/10/test3/</url>
+    <title>test</title>
+    <url>/2020/04/10/test1/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>Linux</category>
+        <category>.net</category>
       </categories>
       <tags>
-        <tag>Kalis</tag>
+        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
